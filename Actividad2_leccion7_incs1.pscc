@@ -1,5 +1,5 @@
 Algoritmo Actividad1_leccion7_incs1
-	escribir"==BUZÓN DE VOZ=="
+	escribir"==BUZÃ“N DE VOZ=="
 	//VARIABLES
 	Definir opcion Como Entero
 	escribir "Seleccione una opcion:"
