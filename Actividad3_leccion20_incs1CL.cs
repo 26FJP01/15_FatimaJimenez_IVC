@@ -7,7 +7,7 @@
         // ENTRADA DE DATOS
         Console.Write("Ingrese el número del día de la semana (1-7): ");
         dia = Convert.ToInt32(Console.ReadLine());
-        // PROCESO Y VALIDACIÓN
+        // PROCESO Y SALIDA
         if (dia >= 1 || dia <= 7)
         {
             Console.WriteLine("Fin de semana");
