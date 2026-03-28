@@ -7,7 +7,7 @@
         // ENTRADA DE DATOS
         Console.Write("Por favor ingrese la contraseña: ");
         contraseña = Console.ReadLine();
-        // PROCESO Y VALIDACIÓN
+        // PROCESO Y SALIDA
         if (contraseña == "Password123")
         {
             Console.WriteLine("Bienvenido");
