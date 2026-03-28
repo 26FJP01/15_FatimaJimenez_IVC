@@ -1,0 +1,29 @@
+Algoritmo Actividad1_leccion7_incs1
+	escribir"==BUZÓN DE VOZ=="
+	//VARIABLES
+	Definir opcion Como Entero
+	escribir "Seleccione una opcion:"
+	leer opcion
+	escribir "1.Ha seleccionado ventas"
+	escribir "2.Ha seleccionado soporte tecnico"
+	escribir "3.Ha seleccionado facturacion"
+	escribir "4.Ha seleccionado dejar mensaje de voz"
+	leer opcion
+	Si opcion=1 Entonces
+		escribir "Ha seleccionado Ventas"
+	SiNo
+		Si opcion=2 Entonces
+			escribir "Ha seleccionado Soporte tecnico"
+		SiNo
+			Si opcion=3 Entonces
+				escribir "Ha seleccionado Facturacion"
+			SiNo
+				Si opcion=4 Entonces
+					escribir "Por favor deje su mensaje despues del tono..."
+				SiNo
+					escribir "Opcion no valida"
+				Fin Si
+			Fin Si
+		Fin Si
+	Fin Si
+FinAlgoritmo
