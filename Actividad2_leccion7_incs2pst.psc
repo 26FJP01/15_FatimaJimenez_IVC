@@ -1,4 +1,4 @@
-Algoritmo Actividad1_leccion7_incs2
+Algoritmo Actividad2_leccion7_incs2
 	Definir nota Como Entero
     Escribir Sin Saltar "Ingrese la nota: "
     Leer nota
