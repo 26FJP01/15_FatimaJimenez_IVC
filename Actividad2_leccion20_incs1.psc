@@ -1,4 +1,4 @@
-Algoritmo Acctividad2_leccion20_incs1
+Algoritmo Actividad2_leccion20_incs1
 		Definir contraseña Como Cadena
 		Escribir "Por favor ingrese la contraseña:"
 		Leer contraseña
